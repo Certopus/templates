@@ -26,7 +26,7 @@
                 "data": "{Name}",
                 "boxStyle": {
                     "fgColor": "ffffffff",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "left",
                     "weight": "w700",
                     "italic": "normal",
@@ -50,7 +50,7 @@
                 "data": "THIS IS TO \nPROUDLY CERTIFY THAT:",
                 "boxStyle": {
                     "fgColor": "ffffffff",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "left",
                     "weight": "w700",
                     "italic": "normal",
@@ -74,7 +74,7 @@
                 "data": "CERTIFICATE",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "right",
                     "weight": "w700",
                     "italic": "normal",
@@ -98,7 +98,7 @@
                 "data": "OF APPRECIATION",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "right",
                     "weight": "w400",
                     "italic": "normal",
@@ -138,7 +138,7 @@
                 "data": "Company Name",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "left",
                     "weight": "w700",
                     "italic": "normal",
@@ -162,7 +162,7 @@
                 "data": "YOUR TAGLINE GOES HERE",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "left",
                     "weight": "w400",
                     "italic": "normal",
@@ -186,7 +186,7 @@
                 "data": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. sa. Cum sociis natoque penatibu s et magnis dis partu rient montes, nascetur ridiculus mociis natoque penatibu s et magnis dis partu rient montes, nascetur ridiculus mus",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "left",
                     "weight": "w400",
                     "italic": "normal",
@@ -226,7 +226,7 @@
                 "data": "Jonathon Smith",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "center",
                     "weight": "w700",
                     "italic": "normal",
@@ -250,7 +250,7 @@
                 "data": "Director",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "center",
                     "weight": "w400",
                     "italic": "normal",
@@ -274,7 +274,7 @@
                 "data": "John William",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "center",
                     "weight": "w700",
                     "italic": "normal",
@@ -298,7 +298,7 @@
                 "data": "Manager",
                 "boxStyle": {
                     "fgColor": "ff000000",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "center",
                     "weight": "w400",
                     "italic": "normal",

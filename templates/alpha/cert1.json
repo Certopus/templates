@@ -194,7 +194,7 @@
         "data": ". . . .",
         "boxStyle": {
           "fgColor": "ff353e89",
-          "font": "Lato",
+          "font": "Forum",
           "align": "left",
           "weight": "w400",
           "italic": "normal",
@@ -282,7 +282,7 @@
         "data": ". . . .",
         "boxStyle": {
           "fgColor": "ff353e89",
-          "font": "Lato",
+          "font": "Forum",
           "align": "left",
           "weight": "w400",
           "italic": "normal",
@@ -330,7 +330,7 @@
         "data": "{Date of issue}",
         "boxStyle": {
           "fgColor": "ff000000",
-          "font": "Lato",
+          "font": "Forum",
           "align": "left",
           "weight": "w700",
           "italic": "normal",

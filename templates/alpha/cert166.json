@@ -26,7 +26,7 @@
         "data": "CERTIFICATE",
         "boxStyle": {
           "fgColor": "ff201c1c",
-          "font": "DM_Serif_Text",
+          "font": "Forum",
           "align": "center",
           "weight": "w700",
           "italic": "normal",
@@ -98,7 +98,7 @@
         "data": "{Name}",
         "boxStyle": {
           "fgColor": "ff211c1c",
-          "font": "DM_Serif_Text",
+          "font": "Forum",
           "align": "center",
           "weight": "w700",
           "italic": "normal",

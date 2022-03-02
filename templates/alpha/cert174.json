@@ -146,7 +146,7 @@
                 "data": "Director",
                 "boxStyle": {
                     "fgColor": "ffffffff",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "center",
                     "weight": "w400",
                     "italic": "normal",
@@ -194,7 +194,7 @@
                 "data": "Manager",
                 "boxStyle": {
                     "fgColor": "ffffffff",
-                    "font": "Raleway",
+                    "font": "Forum",
                     "align": "center",
                     "weight": "w400",
                     "italic": "normal",

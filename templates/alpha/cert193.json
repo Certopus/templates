@@ -186,7 +186,7 @@
         "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sapien libero, convallis posuere eros eu, consequat lobortis urna. Duis eleifend felis nec neque malesuada, sit amet imperdiet nulla molestie. Sed rutrum tellus et laoreet iaculis. Suspendisse metus leo, scelerisque non tempor in, molestie ac nunc.",
         "boxStyle": {
           "fgColor": "ffffffff",
-          "font": "Lato",
+          "font": "Forum",
           "align": "left",
           "weight": "w400",
           "italic": "normal",

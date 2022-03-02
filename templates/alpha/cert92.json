@@ -130,7 +130,7 @@
         "data": "__________________",
         "boxStyle": {
           "fgColor": "ffffffff",
-          "font": "Lato",
+          "font": "Forum",
           "align": "center",
           "weight": "w700",
           "italic": "normal",
@@ -202,7 +202,7 @@
         "data": "__________________",
         "boxStyle": {
           "fgColor": "ffffffff",
-          "font": "Lato",
+          "font": "Forum",
           "align": "center",
           "weight": "w700",
           "italic": "normal",
@@ -322,7 +322,7 @@
         "data": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
         "boxStyle": {
           "fgColor": "ff000000",
-          "font": "Lato",
+          "font": "Forum",
           "align": "center",
           "weight": "w400",
           "italic": "normal",

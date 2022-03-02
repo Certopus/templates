@@ -26,7 +26,7 @@
         "data": "{Name}",
         "boxStyle": {
           "fgColor": "ffffffff",
-          "font": "DM_Serif_Text",
+          "font": "Forum",
           "align": "right",
           "weight": "w400",
           "italic": "normal",
@@ -66,7 +66,7 @@
         "data": "Certificate\nOf Appreciation",
         "boxStyle": {
           "fgColor": "ffffffff",
-          "font": "DM_Serif_Text",
+          "font": "Forum",
           "align": "right",
           "weight": "w400",
           "italic": "normal",
@@ -114,7 +114,7 @@
         "data": "_______________________________",
         "boxStyle": {
           "fgColor": "8bffffff",
-          "font": "Abril_Fatface",
+          "font": "Forum",
           "align": "right",
           "weight": "w400",
           "italic": "normal",
@@ -306,7 +306,7 @@
         "data": "Company Name",
         "boxStyle": {
           "fgColor": "d8ffffff",
-          "font": "DM_Serif_Text",
+          "font": "Forum",
           "align": "left",
           "weight": "w400",
           "italic": "normal",

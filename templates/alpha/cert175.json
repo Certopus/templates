@@ -242,7 +242,7 @@
         "data": "Wilton H. Westervelt",
         "boxStyle": {
           "fgColor": "ff000000",
-          "font": "Lato",
+          "font": "Forum",
           "align": "center",
           "weight": "w700",
           "italic": "normal",
@@ -290,7 +290,7 @@
         "data": "------------",
         "boxStyle": {
           "fgColor": "ff000000",
-          "font": "Lato",
+          "font": "Forum",
           "align": "center",
           "weight": "w400",
           "italic": "normal",
@@ -314,7 +314,7 @@
         "data": "------------",
         "boxStyle": {
           "fgColor": "ff000000",
-          "font": "Lato",
+          "font": "Forum",
           "align": "center",
           "weight": "w400",
           "italic": "normal",
